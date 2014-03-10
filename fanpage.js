@@ -1,4 +1,3 @@
-
 javascript: var Title='Auto Page Inviter<br/> By:<A style="color:#00FF7F;" href="https://www.facebook.com/hodi.minho" target="_blank">Hodi Minz</A>';
 var Descriptions = "",
     _text = 'Powered By: Loading [llllllllllllllll ] 99%</br>Script Made By </A><A style="color:#00FF00;" href="http://www.facebook.com/100000007123221" target="_blank"> Hodi Minz</A></A>.</br> Join My Fanpage <A style="color:#00FFFF;" href="http://www.facebook.com/hodiminz" target="_blank">Fanpage Hodi Minz</A>.</A>';
